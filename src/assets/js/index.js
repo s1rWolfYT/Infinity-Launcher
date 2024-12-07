@@ -30,7 +30,7 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "", "": "SoyPandax" },
+            { "message": "", "author": "SoyPandax" },
             { "message": "", "author": "SoyPandax" },
             { "message": "", "author": "SoyPandax" }
         ];
