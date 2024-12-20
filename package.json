@@ -1,15 +1,15 @@
 {
-    "name": "LightZone-Client",
-    "preductname": "LightZone Client",
-    "version": "1.0.8",
-    "description": "Launcher oficial de LightZone Studio",
+    "name": "Infinity-Client",
+    "preductname": "Infinity-Client",
+    "version": "2.0.0",
+    "description": "Launcher Mincraft Infinity Client",
     "main": "src/app.js",
     "author": {
-        "name": "SoyPandax",
-        "email": "LightZone@outlook.com",
-        "url": "https://discord.gg/gBDdH9Jg"
+        "name": "s1Wolf",
+        "email": "contact@luuxis.fr",
+        "url": "https://github.com/s1rWolfYT"
     },
-    "url": "http://na23.holy.gg:19378/LightZone/mainL",
+    "url": "http://na23.holy.gg:19378/LightZone/mainI",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/SoyMRPandax/LightZone-Launcher.git"
+        "url": "git+https://github.com/s1rWolfYT/Infinity-Launcher.git"
     }
 }
